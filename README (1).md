@@ -62,7 +62,8 @@ streamlit run app.py
 
 ## 📸 Screenshot
 
-![Screenshot](https://path.to/screenshot/image.png)
+![Screenshot](<img width="1354" height="614" alt="Screenshot 2025-07-23 152426" src="https://github.com/user-attachments/assets/e629c76a-47cb-40a1-af87-fd196f93b87e" />
+)
 
 ---
 
