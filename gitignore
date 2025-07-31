@@ -1,0 +1,17 @@
+# Ignore large data and model files
+dataset/
+runs/
+*.pth
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore environment folders
+venv/
+.env/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
