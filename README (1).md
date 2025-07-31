@@ -58,12 +58,7 @@ After downloading:
 streamlit run app.py
 ```
 
----
 
-## 📸 Screenshot
-
-url("<img width="1354" height="614" alt="Screenshot 2025-07-23 152426" src="https://github.com/user-attachments/assets/a3e2137f-6d2a-440a-a472-4db855cc63be" /">
-)
 
 ---
 
